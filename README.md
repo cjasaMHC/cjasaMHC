@@ -1,6 +1,14 @@
 ## I'm Cleb! Welcome to my Github Page
 
-[![My Skills](https://skillicons.dev/icons?i=powershell,neovim,lua,dotnet)](https://skillicons.dev)
+#### Currently Using:
+[![My Skills](https://skillicons.dev/icons?i=windows,powershell,neovim,arch,bash,mad)](https://skillicons.dev)
+
+#### Currently Learning:
+[![My Skills](https://skillicons.dev/icons?i=powershell,lua,dotnet,azure,)](https://skillicons.dev)
+
+#### Skills:
+[![My Skills](https://skillicons.dev/icons?i=html,css,dotnet,mysql,php,js,cs)](https://skillicons.dev)
+
 
 <!--
 **cjasaMHC/cjasaMHC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

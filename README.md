@@ -11,7 +11,7 @@ Learned from hands-on experience with computers from an early age. Over time, my
 [![My Skills](https://skillicons.dev/icons?i=powershell,dotnet,azure)](https://skillicons.dev)
 
 #### Skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,boostrap,dotnet,mysql,php,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,dotnet,mysql,php,js)](https://skillicons.dev)
 
 #### Interested In:
-[![My Skills](https://skillicons.dev/icons?i=py,nix,rust,go,gleam,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,nix,rust,go,docker)](https://skillicons.dev)

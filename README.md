@@ -2,7 +2,7 @@
 
 
 ### About Me
-Learned from hands-on experience with computers from an early age. Over time, my interest grew to learning about computer hardware, how to construct computers, basic networking principals, and eventually switching my major in college from networking and info-sec to application development. Currently working as a SysAdmin and eager to learn more. 
+Learned from hands-on experience with computers from an early age. As I got older, my interest pushed me to learning about more about computer hardware, building computers, basic networking principals, and eventually switching my major from networking and info-sec to application development. Started my journey with Vim and the command line in January 2024 and have loved it ever since. Currently working as a SysAdmin and eager to learn more about anything I can. 
 
 
 #### Current Workflow:

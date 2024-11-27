@@ -20,5 +20,5 @@
 [![My Skills](https://skillicons.dev/icons?i=rust,postgres,grafana,kubernetes)](https://skillicons.dev)
 
 #### Previously Worked with:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,mysql,php,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,mysql,php,js&perline=3)](https://skillicons.dev)
 
